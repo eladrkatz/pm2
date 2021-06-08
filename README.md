@@ -176,9 +176,9 @@ $ pm2 reloadLogs          # Reload all logs
 
 [More about log management](https://pm2.keymetrics.io/docs/usage/log-management/)
 
-### Startup Scripts Generation
+### Startup Scripts ]ration
 
-PM2 can generates and configure a Startup Script to keep PM2 and your processes alive at every server restart.
+PM2 can generate and configure a Startup Script to keep PM2 and your processes alive at every server restart.
 
 Init Systems Supported: **systemd**, **upstart**, **launchd**, **rc.d**
 
